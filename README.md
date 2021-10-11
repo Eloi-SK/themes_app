@@ -1,16 +1,10 @@
 # themes_app
 
-A new Flutter project.
+A simple app where you can change the theme of it when you choose a color and it generates the material design palette based on the color. Based on the [mbitson project](https://github.com/mbitson/mcg), using the [TinyColor2](https://github.com/TinyCommunity/tinycolor2) port by TinyCommunity.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![print1](https://user-images.githubusercontent.com/10618453/136792038-83f2727b-4019-4b6a-a0d4-94231fc57629.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![print2](https://user-images.githubusercontent.com/10618453/136792115-57ccb4ae-c24a-4c0f-9972-0daebbd56337.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
